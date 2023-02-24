@@ -1,5 +1,5 @@
-# Bike-Store-Project
-Data analysis and visualization project with imaginary Bike Store data using SQL/Excel/Tableau. 
+# Bicycle-Store-Project
+Data analysis and visualization project for the Executive Team at a theoretical Bicycle Retail Store. 
 Data is combined and pulled from SQL and then imported into Excel/Tableau for visualization in the form of a dynamic dashboard.
 
 Install and run:
