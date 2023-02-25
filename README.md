@@ -13,6 +13,7 @@ Relevant data is then imported into Excel (Google Sheets) and pivot tables are u
 https://docs.google.com/spreadsheets/d/1wCK655M-9RlVxAY9DRsfIUo4_l-XgH-T2lglHTsSlio/edit?usp=sharing
 
 A similar dashboard is also created in Tableau as well: 
+https://public.tableau.com/views/BikeStoreDashboard_16772886543410/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
 
